@@ -2,6 +2,9 @@
 Richters predicter earthquake damage to buildings competition hosted by drivendata.org  
 Predicting the damage occured due to the 2015 Nepal Earthquake
 
+## Medium Article
+My approach in detail to this project can be found here - 
+
 
 ## Overview:
 Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal. 
