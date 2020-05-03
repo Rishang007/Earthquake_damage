@@ -3,7 +3,7 @@ Richters predicter earthquake damage to buildings competition hosted by drivenda
 Predicting the damage occured due to the 2015 Nepal Earthquake
 
 ## Medium Article
-My approach in detail to this project can be found here - 
+My approach in detail and explanation of the code to this project can be found here - https://medium.com/@p.rishang007/predicting-damage-to-building-due-to-earthquake-using-data-science-e85a62adc0c0
 
 
 ## Overview:
