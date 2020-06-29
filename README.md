@@ -1,4 +1,8 @@
-# Earthquake_damage
+# Earthquake_damage  
+
+[![HitCount](http://hits.dwyl.com/rishang007/Earthquake_damage.svg)](http://hits.dwyl.com/rishang007/Earthquake_damage)
+
+
 Richters predicter earthquake damage to buildings competition hosted by drivendata.org  
 Predicting the damage occured due to the 2015 Nepal Earthquake
 
